@@ -7,7 +7,7 @@ using namespace std;
 
 #define MAXLENGTH 80
 
-const map<string, int> commands={
+const map<string, int> commands={                   //commands list   
     {"add",0},
     {"ls",1},
     {"list",1},
